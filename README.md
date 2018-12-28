@@ -6,6 +6,8 @@
 
 * Angular 2+
 
+* yarn
+
 # Running Angular with Rails together in one command
 - bundle exec foreman start -f Procfile.dev
 - http://localhost:5000/
